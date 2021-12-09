@@ -8,6 +8,7 @@
 body {
 	font-family: 'DM Sans', sans-serif;
 	color: #6b6b6b;
+	max-width:1024px;
 }
 
 section {}
